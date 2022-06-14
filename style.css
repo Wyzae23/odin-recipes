@@ -1,0 +1,28 @@
+*{
+    font-family: cursive;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: #85DCB0;
+}
+
+h1,
+h2,
+h3{
+    color: #c38d9e;
+    text-align: center;
+    font-weight: bold;
+}
+
+.food-item,
+li,
+p{
+    color: #e27d60;
+    font-family: cursive;
+}
